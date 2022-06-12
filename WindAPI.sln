@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindAPI", "WindAPI\WindAPI.csproj", "{8ECF5153-68D1-492A-B950-6E58E1E72A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECF5153-68D1-492A-B950-6E58E1E72A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECF5153-68D1-492A-B950-6E58E1E72A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECF5153-68D1-492A-B950-6E58E1E72A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECF5153-68D1-492A-B950-6E58E1E72A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E43ACD-B128-489A-82B9-AB39F5FB9FE2}
+	EndGlobalSection
+EndGlobal
